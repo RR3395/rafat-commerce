@@ -28,3 +28,29 @@
     color: crimson;
 }
 
+.bg-watch{
+    background-color: cadetblue;
+    border-radius: 10px;
+    padding: 10px 30px;
+    color: aliceblue;
+
+}
+
+.bg-bag{
+    background-color: cyan;
+    border-radius: 10px;
+    padding: 10px 30px;
+    color: aliceblue;
+
+}
+
+.bg-shoes{
+    background-color: blue;
+    border-radius: 10px;
+    padding: 10px 30px;
+    color: aliceblue;
+}
+
+.categories img{
+    width:120px;
+}

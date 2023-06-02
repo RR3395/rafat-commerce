@@ -54,3 +54,26 @@
 .categories img{
     width:120px;
 }
+
+.card-price{
+    color: brown;
+}
+
+.card-shadow{
+    box-shadow: 5px 5px 10px lightgrey;
+    border: none;
+    border-radius: 10px;
+}
+
+.card-n-footer{
+    border-top: none;
+    background-color: white;
+}
+
+.padding{
+    padding: 50px 20px;
+}
+
+.footer-align{
+    text-align: center;
+}
